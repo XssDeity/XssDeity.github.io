@@ -2,7 +2,7 @@ const lista_cursos= [];
 lista_cursos.push({
     titulo: 'WiLL',
     texto: 'Feliz cumpleañso will',
-    imagen: './img/will.png',
+    imagen: 'will.png',
     enlace: 'https://youtu.be/vTL57Sie1Fo'
 
 })
